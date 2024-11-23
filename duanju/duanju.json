@@ -9,7 +9,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./duanju/json/555短剧.json"
+            "ext": "./json/555短剧.json"
         },
         {
             "key": "天龙影院",
