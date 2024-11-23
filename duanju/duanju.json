@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.com/MyHomeTV/tvbox/blob/main/duanju/xyqxbpq.jar",
+    "spider": "./xyqxbpq.jar",
     "sites": [
         {
             "key": "555短剧",
