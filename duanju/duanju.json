@@ -786,7 +786,7 @@
         },
         {
             "key": "飞飞影视",
-            "name": "飞飞短剧",
+            "name": "✨飞飞短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -796,7 +796,7 @@
         },
         {
             "key": "短剧网2",
-            "name": "抖音短剧",
+            "name": "✨抖音短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
