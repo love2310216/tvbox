@@ -785,6 +785,26 @@
             "ext": "./json/68短剧.json"
         },
         {
+            "key": "飞飞影视",
+            "name": "飞飞短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/飞飞短剧.json"
+        },
+        {
+            "key": "短剧网2",
+            "name": "抖音短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/抖音短剧.json"
+        },
+        {
             "key": "短剧大全",
             "name": "✨短剧大全✨",
             "type": 3,
