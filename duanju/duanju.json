@@ -512,16 +512,6 @@
             "ext": "./json/护航短剧.json"
         },
         {
-            "key": "爱你短剧",
-            "name": "✨爱你短剧✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/爱你短剧.json"
-        },
-        {
             "key": "爱看4K短剧",
             "name": "✨爱看4K短剧✨",
             "type": 3,
@@ -763,14 +753,36 @@
             "ext": "./json/一个短剧.json"
         },
         {
-            "key": "Wexduanjuhema",
+            "key": "csp_XYQHiker_爱你短剧",
+            "name": "✨爱你短剧✨",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./jar/xmbjm.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/爱你短剧.json"
+        },
+        {
+            "key": "csp_XYQHiker_河马短剧",
             "name": "✨河马短剧✨",
             "type": 3,
             "api": "csp_XYQHiker",
+            "jar": "./jar/xmbjm.jar",
             "searchable": 1,
-            "changeable": 1,
-            "jar": "./jar/XYQ.jar",
+            "quickSearch": 1,
+            "filterable": 1,
             "ext": "./json/河马短剧.json"
+        },
+        {
+            "key": "68影院",
+            "name": "✨68短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/68短剧.json"
         },
         {
             "key": "短剧大全",
