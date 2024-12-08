@@ -373,6 +373,13 @@
             "ext": "./js/蓝莓短剧.js"
         },
         {
+            "key": "hipy_js_南风短剧",
+            "name": "✨南风短剧✨",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/南风短剧.js"
+        },
+        {
             "key": "drpy_短剧",
             "name": "✨热门短剧✨",
             "type": 3,
