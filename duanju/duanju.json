@@ -62,6 +62,16 @@
             "jar": "./jar/星芽短剧.jar"
         },
         {
+            "key": "抖音短剧",
+            "name": "✨抖音短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/抖音短剧.json"
+        },
+        {
             "key": "✨红蚂蚁短剧✨",
             "name": "✨红蚂蚁短剧✨",
             "type": 3,
@@ -100,6 +110,66 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/追剧短剧.json"
+        },
+        {
+            "key": "大海影视⑫",
+            "name": "✨大海短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/大海短剧.json"
+        },
+        {
+            "key": "四海影视",
+            "name": "✨四海短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/四海短剧.json"
+        },
+        {
+            "key": "大树影视",
+            "name": "✨大树短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/大树短剧.json"
+        },
+        {
+            "key": "番茄影视",
+            "name": "✨番茄短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/番茄短剧.json"
+        },
+        {
+            "key": "泰剧影视",
+            "name": "✨泰剧短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/泰剧短剧.json"
+        },
+        {
+            "key": "蝌蚪影视",
+            "name": "✨蝌蚪短剧✨",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/蝌蚪短剧.json"
         },
         {
             "key": "大鱼短剧",
