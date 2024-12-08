@@ -1413,6 +1413,26 @@
             ]
         },
         {
+            "key": "sdzy",
+            "name": "✨闪电短剧✨",
+            "type": 1,
+            "api": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list",
+            "playurl": "json:https://www.shankubf.com/m3u8/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "categories": [
+                "爽文短剧",
+                "女频恋爱",
+                "反转爽剧",
+                "古装仙侠",
+                "年代穿越",
+                "脑洞悬疑",
+                "现代都市"
+            ]
+        },
+        {
             "key": "PPTV",
             "name": "✨PP短剧✨",
             "type": 3,
@@ -1442,6 +1462,8 @@
             "filterable": 1,
             "ext": "./json/老王短剧.json"
         },
+
+
         {
             "key": "文武网络收集整理",
             "name": "文武网络收集整理"
