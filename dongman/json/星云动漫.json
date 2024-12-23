@@ -1,0 +1,21 @@
+{
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "主页url": "https://www.neimaowang.com",
+    "数组": "lazyload\"&&</li>",
+    "标题": "title=\"&&\"",
+    "图片": "data-original=\"&&\"",
+    "副标题": "text-right\">&&<",
+    "链接": "href=\"&&\"",
+    "简介": "简介：&&</p>",
+    "线路数组": "data-toggle&&/a>",
+    "线路标题": ">&&<",
+    "播放数组": "playlist clearfix&&</ul>",
+    "播放列表": "<a&&/a>",
+    "播放标题": ">&&</a>",
+    "播放链接": "href=\"&&\"",
+    "搜索模式": "1",
+    "搜索url": "/vodsearch/{wd}----------{pg}---.html",
+    "分类url": "https://www.neimaowang.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+    "分类": "动漫$4#动画片$35#短剧$40"
+}
