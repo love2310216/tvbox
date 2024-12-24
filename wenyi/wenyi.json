@@ -19,7 +19,7 @@
             "name": "🎶万首|MV🎶",
             "type": 3,
             "api": "./js/直播转点播.js",
-            "ext": "./MTV/MV.json"
+            "ext": "https://github.moeyy.xyz/https://github.com/MyHomeTV/tvbox/blob/main/wenyi/MTV/MV.json"
         },
         {
             "key": "播客",
