@@ -1,0 +1,1510 @@
+{
+    "spider": "./xyqxbpq.jar",
+    "wallpaper": "http://74.120.175.78/JK/api/bg/",
+    "disabled_wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+    "logo": "https://4708.kstore.space/logo.gif",
+    "sites": [
+        {
+            "key": "沙雕小视频",
+            "name": "🍭沙雕动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/HeChengChaXiu.jar",
+            "ext": "./json/沙雕动漫.json"
+        },
+        {
+            "key": "csp_Bili短剧",
+            "name": "🍭短剧|沙雕🍭",
+            "type": 3,
+            "api": "csp_Bili",
+            "jar": "./jar/fan.txt",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 1,
+            "playerType": "2",
+            "ext": "./json/哔哩短剧沙雕.json"
+        },
+        {
+            "key": "动漫",
+            "name": "🍭动漫(py)🍭",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./js/py_动漫.py"
+        },
+        {
+            "key": "曼波动漫",
+            "name": "🍭曼波动漫🍭",
+            "type": 3,
+            "api": "csp_Xdai",
+            "jar": "./jar/spider.jar",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "jaHR0cHM6Ly9hcHAub21vZnVuMS50b3AvYXBpLnBocHw2NmRjMzA5Y2JlZWNhNDU0fDY2ZGMzMDljYmVlY2E0NTR8MTAw"
+        },
+        {
+            "key": "咕咕动漫",
+            "name": "🍭咕咕动漫🍭",
+            "type": 3,
+            "api": "csp_Xdai",
+            "jar": "./jar/spider.jar",
+            "playerType": 1,
+            "ext": "jaHR0cHM6Ly93d3cuZ3VndTMuY29tfG5LZlo4S1g2SlROV1J6VER8bktmWjhLWDZKVE5XUnpURHw0MDE="
+        },
+        {
+            "key": "花子动漫",
+            "name": "🍭花子动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/花子动漫.js"
+        },
+        {
+            "key": "柠檬动漫",
+            "name": "🍭柠檬动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/柠檬动漫.json"
+        },
+        {
+            "key": "58动漫网",
+            "name": "🍭动漫之家🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/动漫之家.json"
+        },
+        {
+            "key": "萝卜动漫",
+            "name": "🍭萝卜动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/dokilwss.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/萝卜动漫.json"
+        },
+        {
+            "key": "NyaFun动漫",
+            "name": "🍭妮呀动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/妮呀动漫.json"
+        },
+        {
+            "key": "橘子动漫",
+            "name": "🍭橘子动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/橘子动漫.json"
+        },
+        {
+            "key": "4K动漫",
+            "name": "🍭4K动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/4K动漫.json"
+        },
+        {
+            "key": "星辰影院",
+            "name": "🍭星辰动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/星辰动漫.json"
+        },
+        {
+            "key": "MX动漫",
+            "name": "🍭MX动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/MX动漫.json"
+        },
+        {
+            "key": "喝茶动漫",
+            "name": "🍭喝茶动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/喝茶动漫.json"
+        },
+        {
+            "key": "白虎动漫",
+            "name": "🍭白虎动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/白虎动漫.json"
+        },
+        {
+            "key": "大海影视",
+            "name": "🍭大海动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/大海动漫.json"
+        },
+        {
+            "key": "追影影视",
+            "name": "🍭追影动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/追影动漫.json"
+        },
+        {
+            "key": "爱看4K动漫",
+            "name": "🍭爱看4K动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/爱看4k动漫.json"
+        },
+        {
+            "key": "花花动漫",
+            "name": "🍭花花动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/花花动漫.json"
+        },
+        {
+            "key": "NyaFun",
+            "name": "🍭NyaFun动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/NyaFun动漫.json"
+        },
+        {
+            "key": "天天影视",
+            "name": "🍭天天动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/天天动漫.json"
+        },
+        {
+            "key": "旺旺影视",
+            "name": "🍭旺旺动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/旺旺动漫.json"
+        },
+        {
+            "key": "白羊影院",
+            "name": "🍭白羊动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/白羊动漫.json"
+        },
+        {
+            "key": "AnFuns动漫",
+            "name": "🍭AnFuns动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/AnFuns动漫.json"
+        },
+        {
+            "key": "SKY影视",
+            "name": "🍭SKY动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/SKY动漫.json"
+        },
+        {
+            "key": "饼干动漫网",
+            "name": "🍭饼干动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/饼干动漫.json"
+        },
+        {
+            "key": "巴士动漫网",
+            "name": "🍭巴士动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/巴士动漫.json"
+        },
+        {
+            "key": "Mifun动漫",
+            "name": "🍭MiFun动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/MiFun动漫.json"
+        },
+        {
+            "key": "新希望影院",
+            "name": "🍭希望动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/希望动漫.json"
+        },
+        {
+            "key": "殇情影院",
+            "name": "🍭殇情动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/殇情动漫.json"
+        },
+        {
+            "key": "森林CINEMA",
+            "name": "🍭森林动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/森林动漫.json"
+        },
+        {
+            "key": "动漫TV网",
+            "name": "🍭TV动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/tv动漫.json"
+        },
+        {
+            "key": "白狐动漫网",
+            "name": "🍭白狐动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/白狐动漫.json"
+        },
+        {
+            "key": "鹊桥影院",
+            "name": "🍭鹊桥动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/鹊桥动漫.json"
+        },
+        {
+            "key": "开心影院",
+            "name": "🍭开心动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/开心动漫.json"
+        },
+        {
+            "key": "短剧网",
+            "name": "🍭短剧网动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/短剧网动漫.json"
+        },
+        {
+            "key": "金牌影视",
+            "name": "🍭金牌动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/金牌动漫.json"
+        },
+        {
+            "key": "哆啦新番社",
+            "name": "🍭哆啦新番🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/哆啦新番社.json"
+        },
+        {
+            "key": "drpy_js_奇艺",
+            "name": "🍭爱奇艺动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/奇艺动漫.js"
+        },
+        {
+            "key": "drpy_js_优酷",
+            "name": "🍭优酷动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/优酷动漫.js"
+        },
+        {
+            "key": "drpy_js_腾讯",
+            "name": "🍭腾讯动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/腾讯动漫.js"
+        },
+        {
+            "key": "drpy_js_芒果",
+            "name": "🍭芒果动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/芒果动漫.js"
+        },
+        {
+            "key": "drpy_js_二次元",
+            "name": "🍭二次元动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/二次元.js"
+        },
+        {
+            "key": "drpy_js_囧次元",
+            "name": "🍭囧次元动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/囧次元.js"
+        },
+        {
+            "key": "drpy_js_2千动漫",
+            "name": "🍭2千动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/2千动漫.js"
+        },
+        {
+            "key": "drpy_js_CM动漫",
+            "name": "🍭CM动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/CM动漫.js"
+        },
+        {
+            "key": "drpy_js_集百动漫",
+            "name": "🍭集百动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/集百动画.js"
+        },
+        {
+            "key": "drpy_js_风车动漫",
+            "name": "🍭风车动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/风车动漫.js"
+        },
+        {
+            "key": "drpy_js_58动漫",
+            "name": "🍭58动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/58动漫.js"
+        },
+        {
+            "key": "56动漫",
+            "name": "🍭56动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/56动漫.js"
+        },
+        {
+            "key": "动画片",
+            "name": "🍭动画片动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/动画片大全.js"
+        },
+        {
+            "key": "路漫漫",
+            "name": "🍭路漫漫动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/路漫漫.js"
+        },
+        {
+            "key": "去看吧",
+            "name": "🍭去看吧动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/去看吧.js"
+        },
+        {
+            "key": "异世界",
+            "name": "🍭异世界动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/异世界.js"
+        },
+        {
+            "key": "好看动漫",
+            "name": "🍭好看动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/好看动漫.js"
+        },
+        {
+            "key": "drpy_js_爱弹幕",
+            "name": "🍭爱弹幕🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/爱弹幕.js"
+        },
+        {
+            "key": "drpy_js_喵物",
+            "name": "🍭喵物次元🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/喵物次元.js"
+        },
+        {
+            "key": "drpy_js_大米动漫",
+            "name": "🍭大米动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/大米动漫.js"
+        },
+        {
+            "key": "drpy_js_樱花动漫",
+            "name": "🍭樱花动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/樱花动漫.js"
+        },
+        {
+            "key": "drpy_js_mutefun动漫",
+            "name": "🍭mutefun动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/mutefun.js"
+        },
+        {
+            "key": "drpy_js_次元城",
+            "name": "🍭次元城🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/次元城.js"
+        },
+        {
+            "key": "drpy_js_动漫网",
+            "name": "🍭动漫网🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/动漫网.js"
+        },
+        {
+            "key": "drpy_js_七色番",
+            "name": "🍭七色番🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/七色番.js"
+        },
+        {
+            "key": "drpy_js_动漫巴士",
+            "name": "🍭动漫巴士🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/动漫巴士.js"
+        },
+        {
+            "key": "drpy_js_花子动漫",
+            "name": "🍭花子动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/花子动漫.js"
+        },
+        {
+            "key": "drpy_js_Anime1动漫",
+            "name": "🍭Anime1动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/Anime1.js"
+        },
+        {
+            "key": "drpy_js_稀饭动漫",
+            "name": "🍭稀饭动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/稀饭动漫.js"
+        },
+        {
+            "key": "drpy_js_NT动漫",
+            "name": "🍭NT动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/NT动漫.js"
+        },
+        {
+            "key": "drpy_js_动漫岛",
+            "name": "🍭动漫岛🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/动漫岛.js"
+        },
+        {
+            "key": "drpy_js_奇米动漫",
+            "name": "🍭奇米动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/奇米动漫.js"
+        },
+        {
+            "key": "drpy_js_怡萱动漫",
+            "name": "🍭怡萱动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/怡萱动漫.js"
+        },
+        {
+            "key": "drpy_js_爱动漫",
+            "name": "🍭爱动漫🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/爱动漫.js"
+        },
+        {
+            "key": "91动漫",
+            "name": "🍭九一追番🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/91动漫.json"
+        },
+        {
+            "key": "蜗牛影院",
+            "name": "🍭蜗牛动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/蜗牛动漫.json"
+        },
+        {
+            "key": "如意影视",
+            "name": "🍭如意动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/如意动漫.json"
+        },
+        {
+            "key": "扣扣影院",
+            "name": "🍭︎扣扣动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/扣扣动漫.json"
+        },
+        {
+            "key": "悦捷影视",
+            "name": "🍭悦捷动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/悦捷动漫.json"
+        },
+        {
+            "key": "乐低端影视",
+            "name": "🍭低端动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/低端动漫.json"
+        },
+        {
+            "key": "即看影视",
+            "name": "🍭即看动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/即看动漫.json"
+        },
+        {
+            "key": "米兰影院",
+            "name": "🍭米兰动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/米兰动漫.json"
+        },
+        {
+            "key": "星云影视",
+            "name": "🍭星云动漫🍭",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/星云动漫.json"
+        },
+        {
+            "key": "魔都动漫",
+            "name": "🍭魔都动漫🍭",
+            "type": 1,
+            "api": "https://www.moduzy.cc/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "港台动漫",
+                "欧美动漫",
+                "动漫电影"
+            ]
+        },
+        {
+            "key": "drpy_js_央视少儿",
+            "name": "🍭央视少儿🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/央视少儿.js"
+        },
+        {
+            "key": "drpy_js_兔小贝",
+            "name": "🍭兔小贝🍭",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/兔小贝.js"
+        },
+        {
+            "key": "无尽资源",
+            "name": "🍭无尽动漫🍭",
+            "type": 1,
+            "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "港台动漫",
+                "欧美动漫",
+                "有声动漫"
+            ]
+        },
+        {
+            "key": "闪电资源",
+            "name": "🍭闪电动漫🍭",
+            "type": 1,
+            "api": "https://sdzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "港台动漫",
+                "欧美动漫",
+                "海外动漫"
+            ]
+        },
+        {
+            "key": "快车资源",
+            "name": "🍭开车动漫🍭",
+            "type": 1,
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "动画片",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫"
+            ]
+        },
+        {
+            "key": "1080资源",
+            "name": "🍭1080动漫🍭",
+            "type": 1,
+            "api": "https://api.1080zyku.com/inc/apijson.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "港台动漫",
+                "欧美动漫",
+                "海外动漫"
+            ]
+        },
+        {
+            "key": "黑幕",
+            "name": "🍭黑幕动漫🍭",
+            "type": 1,
+            "api": "https://www.heimuer.tv/api.php/provide/vod/",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "timeout": 20,
+            "categories": [
+                "中漫",
+                "日漫",
+                "动漫",
+                "纪录片",
+                "动画片",
+                "动漫片",
+                "国产动漫",
+                "港台动漫",
+                "日本动漫",
+                "海外动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "动漫电影"
+            ],
+            "header": {
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+            }
+        },
+        {
+            "key": "木耳",
+            "name": "🍭木耳动漫🍭",
+            "type": 1,
+            "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "timeout": 20,
+            "categories": [
+                "欧美动漫",
+                "日本动漫",
+                "韩国动漫",
+                "国产动漫",
+                "港台动漫"
+            ],
+            "header": {
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+            }
+        },
+        {
+            "key": "api_优质采集",
+            "name": "🍭优质动漫🍭",
+            "type": 1,
+            "api": "https://api.1080zyku.com/inc/api_mac10.php",
+            "playUrl": "https://vip.zykbf.com/?url=",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "动画片",
+                "国产动漫",
+                "港台动漫",
+                "日韩动漫",
+                "欧美动漫"
+            ]
+        },
+        {
+            "key": "api_豪华资源",
+            "name": "🍭豪华动漫🍭",
+            "type": 1,
+            "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+            "playUrl": "https://hhjiexi.com/play/?url=",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "动画片",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫"
+            ]
+        },
+        {
+            "key": "api_爱库采集",
+            "name": "🍭爱坤动漫🍭",
+            "type": 1,
+            "api": "https://ikunzy.net/api.php/provide/vod/",
+            "playUrl": "https://www.ikdmjx.com/?url=",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "动画片",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "里番动漫"
+            ]
+        },
+        {
+            "key": "api_虎牙采集",
+            "name": "🍭虎牙动漫🍭",
+            "type": 1,
+            "api": "https://www.huyaapi.com/api.php/provide/vod/",
+            "playUrl": "https://huyajx.com/play?url=",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "动画片",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫"
+            ]
+        },
+        {
+            "key": "api_红牛采集",
+            "name": "🍭红牛动漫🍭",
+            "type": 1,
+            "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+            "playUrl": "https://www.hnjiexi.com/m3u8/?url=",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "动漫",
+                "动漫电影"
+            ]
+        },
+        {
+            "key": "api_光速资源",
+            "name": "🍭光速动漫🍭",
+            "type": 1,
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+            "playUrl": "https://www.gszyv.com/m3u8/?url=",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "动漫",
+                "动漫电影",
+                "短剧"
+            ]
+        },
+        {
+            "key": "api_极速资源",
+            "name": "🍭极速动漫🍭",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod",
+            "playUrl": "https://jsjiexi.com/play/?url=",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "动画片",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫"
+            ]
+        },
+        {
+            "key": "索尼采集",
+            "name": "🍭索尼动漫🍭",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动画片",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "有声动漫"
+            ]
+        },
+        {
+            "key": "天空资源",
+            "name": "🍭天空动漫🍭",
+            "type": 1,
+            "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "动画片",
+                "国产动漫",
+                "欧美动漫",
+                "海外动漫",
+                "日本动漫"
+            ]
+        },
+        {
+            "key": "1",
+            "name": "⚠️本接口所有资源由(文武)互联网搜集⚠️"
+        },
+        {
+            "key": "2",
+            "name": "⚠️警告:请勿相信视频中所有广告⚠️"
+        }
+    ],
+    "parses": [
+        {
+            "name": "聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "推荐",
+            "type": 1,
+            "url": "https://jxjson.icu/neibu.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "推荐4K",
+            "type": 1,
+            "url": "http://jx.jwl.icu/jx.php?url="
+        },
+        {
+            "name": "线路1",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
+        {
+            "name": "线路2",
+            "type": 0,
+            "url": "https://jx.quankan.app/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
+        {
+            "name": "线路3",
+            "type": 0,
+            "url": "https://jx.yparse.com/index.php?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
+        {
+            "name": "线路4",
+            "type": 0,
+            "url": "https://jx.aidouer.net/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+                    "referer": "https://jiejie.uk/"
+                }
+            }
+        },
+        {
+            "name": "线路5",
+            "type": 0,
+            "url": "https://www.8090g.cn/?url="
+        },
+        {
+            "name": "线路6",
+            "type": 0,
+            "url": "https://jx.yangtu.top?url="
+        },
+        {
+            "name": "线路7",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "线路8",
+            "type": 0,
+            "url": "https://www.ckplayer.vip/jiexi/?url="
+        }
+    ],
+    "rules": [
+        {
+            "name": "暴风",
+            "hosts": [
+                "bfzy",
+                "bfbfvip",
+                "bfengbf"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?adjump.*?\\.ts"
+            ]
+        },
+        {
+            "name": "量子",
+            "hosts": [
+                "vip.lz",
+                "hd.lz",
+                ".cdnlz"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "17.19"
+            ]
+        },
+        {
+            "name": "非凡",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy",
+                "super.ffzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
+                "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
+                "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
+                "17.99",
+                "14.45"
+            ]
+        },
+        {
+            "name": "索尼",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
+                "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
+            ]
+        },
+        {
+            "name": "火山嗅探",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音嗅探",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "农民嗅探",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        }
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "lives": [
+        {
+            "name": "直播1",
+            "type": 0,
+            "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "playerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "直播2",
+            "type": 0,
+            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "直播3",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/Gather",
+            "playerType": 1
+        }
+    ],
+    "flags": [
+        "youku",
+        "优酷",
+        "优 酷",
+        "优酷视频",
+        "qq",
+        "腾讯",
+        "腾 讯",
+        "腾讯视频",
+        "iqiyi",
+        "qiyi",
+        "奇艺",
+        "爱奇艺",
+        "爱 奇 艺",
+        "m1905",
+        "xigua",
+        "letv",
+        "leshi",
+        "乐视",
+        "乐 视",
+        "sohu",
+        "搜狐",
+        "搜 狐",
+        "搜狐视频",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "芒果",
+        "imgo",
+        "芒果TV",
+        "芒 果 T V",
+        "bilibili",
+        "哔 哩",
+        "哔 哩 哔 哩"
+    ],
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "ads": [
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "iqiyi.hbuioo.com",
+        "vip.ffzyad.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "so.toutiao.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "xg.huataisangao.cn",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com"
+    ]
+}
